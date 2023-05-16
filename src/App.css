@@ -1,0 +1,59 @@
+body,
+#root {
+  margin: 0;
+}
+
+.sn-header {
+  height: 6.6vh;
+  display: block;
+  background-color: #dc1c14;
+  /* background-image: url('./homeBg.png'); */
+  overflow: hidden;
+}
+
+.sn-left-menu {
+  float: left;
+  line-height: 45px;
+  margin: 1vh 1vw;
+  display: flex;
+}
+
+.sn-right-menu {
+  float: right;
+  height: 100%;
+  line-height: 50px;
+  display: flex;
+  margin-right: 20px;
+}
+
+#sn-logo {
+  width: 35px;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+
+.sn-welcome {
+  width: 285px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.sn-link {
+  color: white;
+  margin: 0 10px;
+}
+
+.sn-body {
+  height: 86vh;
+}
+
+.sn-body {
+  margin: 3vh 5vw;
+}
+
+.sn-content {
+  background-color: grey;
+  height: 85vh;
+  margin-top: 1vh;
+}
